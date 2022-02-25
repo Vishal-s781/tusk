@@ -1,0 +1,2 @@
+this is my first app
+ app feature a egg which will break after a timer is finished
